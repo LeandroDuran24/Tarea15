@@ -44,7 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Debug\DebugWriteLine.cs" />
+    <Compile Include="Debug\WriteLine.cs" />
     <Compile Include="Debug\factorial.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
