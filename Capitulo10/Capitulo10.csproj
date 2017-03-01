@@ -44,11 +44,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Clases\Estudiante.cs" />
-    <Compile Include="Clases\Inventario.cs" />
-    <Compile Include="Clases\Poligono.cs" />
-    <Compile Include="Clases\PoligonoPropiedad.cs" />
-    <Compile Include="Clases\PoligonoToString.cs" />
+    <Compile Include="ClasesCap10\Estudiante.cs" />
+    <Compile Include="ClasesCap10\Inventario.cs" />
+    <Compile Include="ClasesCap10\Poligono.cs" />
+    <Compile Include="ClasesCap10\PoligonoPropiedad.cs" />
+    <Compile Include="ClasesCap10\PoligonoToString.cs" />
+    <Compile Include="DebugCap12\factorial.cs" />
+    <Compile Include="DebugCap12\WriteLine.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
